@@ -1,10 +1,18 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Projeto App de Receitas
+
+O objetivo do projeto era criar um aplicativo de receitas de comidas e bebidas, onde o usuário pudesse ver, buscar, filtrar, favoritar e acompanhar o processo de preparo das receitas.
+
+As ferramentas utilizadas foram React, Hooks, Context API, além do HTML, CSS E JavaScript.
+
+A paleta de cores escolhida trouxe tons quentes, para remeter às cores das frutas e verduras e ainda assim ficar em tonalidades próximas ao amarelo, vermelho e laranja, cores comumente associadas à alimentação.
+
+Agradeço aos colegas de grupo Fernanda Vidal de Jesus, Jéssica Milene Souza Alves e Allan Zaparoli pelo aprendizado ao longo desse projeto!
+
+# Ferramentas Utilizadas
+
+- React;
+- React Hooks;
+- Context API;
+- HTML;
+- CSS;
+- JavaScript;
