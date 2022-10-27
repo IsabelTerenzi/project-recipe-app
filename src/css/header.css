@@ -9,6 +9,10 @@
   padding: 10px;
 }
 
+.header h1 {
+  margin-left: 20px;
+}
+
 .search-bar {
   align-items: center;
   display: flex;
